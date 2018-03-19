@@ -1,0 +1,3 @@
+rootProject.name = 'uapi.experiment'
+
+include 'uapi.web', 'uapi.web.apt', 'uapi.web.servlet'
