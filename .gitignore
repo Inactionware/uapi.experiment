@@ -59,3 +59,7 @@ bin/
 .idea/
 *.iml
 out/
+
+# UAPI project files
+#=================================
+**/perf/*.txt
